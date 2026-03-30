@@ -1,0 +1,7 @@
+{
+  "prompt": "Wide aerial view illustration, looking straight down at a vast 19th-century hillside cemetery. The entire frame is filled edge to edge with tiny white gravestones stretching to every horizon — thousands of them, densely packed, many small enough to be children's graves. The gravestones fade slightly into mist at the edges. In the very center of the frame, one small patch — roughly the size of a single room — is completely empty green grass, clean and bare. Just that one tiny clearing surrounded by infinite graves. Mood: heavy, overwhelming, then quietly hopeful at the center. Color palette: pale grey-white stones, overcast sky white, deep green for the small clearing. Photorealistic, shot from directly above like a satellite image. No text, no labels, no numbers, no legends, no chart elements anywhere in the image.",
+  "model": "DALL-E 3 via ChatGPT Plus",
+  "dataset_name": "Our World in Data — Child Mortality",
+  "dataset_url": "https://ourworldindata.org/child-mortality",
+  "insight": "A child born in 1800 had a 1-in-2 chance of dying before age 5; today that number is fewer than 1 in 25."
+}
